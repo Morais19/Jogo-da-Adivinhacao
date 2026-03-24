@@ -1,2 +1,2 @@
 # Jogo-da-Adivinhacao
-Pequeno jogo de adivinhação feito em C
+Pequeno jogo de adivinhação feito em C, onde o jogador tenta descobrir um número secreto gerado aleatoriamente entre 0 e 99. O programa oferece três níveis de dificuldade (Fácil, Médio e Difícil), que determinam o número de tentativas disponíveis. A cada chute errado, o jogador perde pontos com base na distância entre o chute e o número secreto, e recebe dicas indicando se o valor chutado foi maior ou menor. Ao final, o resultado é exibido com arte ASCII, seja de vitória ou derrota.
