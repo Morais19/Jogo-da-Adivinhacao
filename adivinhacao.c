@@ -5,8 +5,6 @@
 
 int main() {
 
-    system("cls"); 
-
     // imprimindo cabecalho bonito do jogo
     printf("\n\n");
     printf("          P  /_\\  P                              \n");
